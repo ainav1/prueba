@@ -1,0 +1,13 @@
+input:not([type="checkbox"]) {
+    width: 150px;
+}
+
+select {
+    width: 158px;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
